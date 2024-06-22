@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<PS36400_NguyenLocThong_Lab3.Models.Product>;
+
+
+@foreach(var item in Model)
+{
+    <p>@item.Name</p>
+}
+
