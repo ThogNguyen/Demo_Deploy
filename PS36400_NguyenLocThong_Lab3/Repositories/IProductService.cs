@@ -6,6 +6,6 @@ namespace PS36400_NguyenLocThong_Lab3.Repositories
 	{
 		List<Product> GetAllProducts();
 
-        // Code mới 
+		// Cdoe fix
     }
 }
