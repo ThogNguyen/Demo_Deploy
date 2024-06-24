@@ -9,7 +9,5 @@ namespace PS36400_NguyenLocThong_Lab3.Repositories
 		// Code chạy ok
 
 		// Code chạy ok nè 
-
-		// Code lỗi 
 	}
 }
