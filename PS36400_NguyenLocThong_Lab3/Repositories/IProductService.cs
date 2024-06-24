@@ -8,6 +8,6 @@ namespace PS36400_NguyenLocThong_Lab3.Repositories
 
 		// Code chạy ok
 		// Code ngon nè
-		// code lỗi rồi dalhjfakjdfhalf
+		// Code đã được fix
 	}
 }
