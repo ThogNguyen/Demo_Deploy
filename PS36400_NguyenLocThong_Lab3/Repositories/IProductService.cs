@@ -6,13 +6,6 @@ namespace PS36400_NguyenLocThong_Lab3.Repositories
 	{
 		List<Product> GetAllProducts();
 
-<<<<<<< HEAD
-        // Code mới 
-
         // Code mới 
     }
-=======
-		// Code mới 
-	}
->>>>>>> parent of d74cd17 (hv)
 }
